@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Json Entity Extension
 
-## Setup
+## Main Info
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Customize the entity models and animations via JSON, a vanilla friendly way for this.
 
 ## License
 
